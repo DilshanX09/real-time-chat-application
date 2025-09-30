@@ -2,8 +2,6 @@
 
 ConvoChat is a **feature-rich, cross-platform real-time chat application** built with a modern full-stack architecture. It delivers a seamless messaging experience with a focus on speed, responsiveness, and user-friendly design. Powered by **WebSocket** for instant communication, ConvoChat combines robust back-end logic with a polished, professional UI.
 
----
-
 ## Features
 
 * **Light & Dark theme support**
@@ -18,8 +16,6 @@ ConvoChat is a **feature-rich, cross-platform real-time chat application** built
 * **Unread message counts** updated in real time
 * Smooth animations for a professional UI/UX experience
 
----
-
 ## Tech Stack
 
 **Frontend**: React, Electron, Tailwind CSS, DaisyUI, Framer Motion
@@ -27,17 +23,13 @@ ConvoChat is a **feature-rich, cross-platform real-time chat application** built
 **Real-time Communication**: WebSocket
 **Design Tools**: Figma, Adobe XD, Photoshop, Illustrator
 
----
-
 ## 📂 Project Structure
 
-```
 
 <img width="148" height="252" alt="image" src="https://github.com/user-attachments/assets/4951096c-41a8-4128-a60d-5799ca8e3b7b" />
 
 ```
 
----
 
 ## ⚙️ Installation & Setup
 
@@ -90,12 +82,10 @@ ConvoChat is a **feature-rich, cross-platform real-time chat application** built
    npm run dev
    ```
 
----
 
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 
----
 
 Chamod Dilshan 2025 @
