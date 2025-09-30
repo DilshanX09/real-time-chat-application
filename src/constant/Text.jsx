@@ -1,0 +1,5 @@
+export const welcomeScreenText = {
+    text1: "Powering messages, syncing data, linking hearts, fueling talk, boosting expression. Tapping, replying, connecting, opening up — in seconds. Delivering instantly, laughing daily, joining chats, feeling together. Messaging your world, lighting the moment, growing closeness, enjoying every word.",
+    text2: "Waking up chats, opening messages, lighting conversations, bridging distances, syncing now. Talking, responding, notifying, bonding stronger — real-time. Greeting friends, growing circles, feeling near, sharing vibes. Uniting people, making memories, chatting freely, always on.",
+    text3: "Launching moments, sharing stories, sending thoughts, connecting instantly, starting now. Messaging, syncing, chatting, feeling heard — with ease. Updating lives, linking souls, typing fast, reacting quick. Building friendships, staying close, expressing more, never missing out.",
+}
