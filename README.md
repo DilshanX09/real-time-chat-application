@@ -25,13 +25,7 @@ ConvoChat is a **feature-rich, cross-platform real-time chat application** built
 
 ## 📂 Project Structure
 
-```
-
 <img width="367" height="743" alt="image" src="https://github.com/user-attachments/assets/44f6b818-6088-45e9-8338-fdfcd9452a7f" />
-
-
-```
-
 
 ## ⚙️ Installation & Setup
 
@@ -49,7 +43,7 @@ ConvoChat is a **feature-rich, cross-platform real-time chat application** built
    ```
 
 3. **Configure environment**
-   Inside the server directory, create a .env file and add:
+   Inside the `server` directory, create a `.env` file and add:
 
    ```env
    DB_HOST="localhost"
@@ -63,7 +57,6 @@ ConvoChat is a **feature-rich, cross-platform real-time chat application** built
    EMAIL="*******@gmail.com"
    PASSWORD="***********"
    ORIGIN="http://localhost:3000"
-
    ```
 
 4. **Run backend server**
@@ -78,16 +71,14 @@ ConvoChat is a **feature-rich, cross-platform real-time chat application** built
    npm run react
    ```
 
-5. **Run full application (React + Express + Electron)**
+6. **Run full application (React + Express + Electron)**
 
    ```bash
    npm run dev
    ```
 
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 
-
-Chamod Dilshan 2025 @
+Chamod Dilshan © 2025
