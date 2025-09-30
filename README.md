@@ -26,7 +26,8 @@ ConvoChat is a **feature-rich, cross-platform real-time chat application** built
 ## 📂 Project Structure
 
 
-<img width="148" height="252" alt="image" src="https://github.com/user-attachments/assets/4951096c-41a8-4128-a60d-5799ca8e3b7b" />
+<img width="367" height="743" alt="image" src="https://github.com/user-attachments/assets/44f6b818-6088-45e9-8338-fdfcd9452a7f" />
+
 
 ```
 
